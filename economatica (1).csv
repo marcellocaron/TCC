@@ -1,0 +1,58 @@
+﻿;Nome;Classe;Bolsa / Fonte;Tipo de Ativo;"Ativo /
+Cancelado";Código;"Participação
+no Ibovespa
+
+em %";"Segmento listagem
+Bovespa";Subsetor Bovespa;"Data do Bal
+ do pri balanco
+ consolid:sim*";BETA_2013;BETA_2014;BETA_2015;BETA_2016;BETA_2017;BETA_2018
+1;Vale;ON;Bovespa;Ação;ativo;VALE3;8,539;Novo Mercado;Mineração;31/12/1986;0,9237652;0,2551173;1,6149206;2,0127309;1,2576174;0,0871454
+2;Petrobras;PN;Bovespa;Ação;ativo;PETR4;6,872;Nível 2;Petróleo, gás e biocombustíveis;31/12/1986;1,7542063;2,1238142;2,3879446;2,7319889;1,0944550;1,8959403
+3;Ambev S/A;ON;Bovespa;Ação;ativo;ABEV3;4,502;Tradicional;Bebidas;31/12/1986;-0,0444249;0,2627833;0,1493482;0,1187488;0,4671942;0,6132217
+4;JBS;ON;Bovespa;Ação;ativo;JBSS3;2,657;Novo Mercado;Alimentos processados;31/12/2004;0,7668420;1,0689944;0,5094813;-0,5413649;2,5012757;0,0631652
+5;Lojas Renner;ON;Bovespa;Ação;ativo;LREN3;2,192;Novo Mercado;Comércio;31/12/1986;1,0885600;0,7523533;1,3700979;0,7466083;0,5718896;0,9555775
+6;BRF SA;ON;Bovespa;Ação;ativo;BRFS3;1,679;Novo Mercado;Alimentos processados;31/03/1986;0,3722600;0,8119114;-0,1195784;0,5776093;0,3754803;1,2058101
+7;Suzano S.A.;ON;Bovespa;Ação;ativo;SUZB3;1,427;Novo Mercado;Madeira e papel;31/12/1986;-0,0700000;-0,4000000;-0,0200000;-0,8500000;0,5000000;-0,5700000
+8;Rumo S.A.;ON;Bovespa;Ação;ativo;RAIL3;1,421;Novo Mercado;Transporte;31/12/1997;0,7359142;0,8819721;2,1259721;1,7308944;1,4198981;0,9324641
+9;Localiza;ON;Bovespa;Ação;ativo;RENT3;1,354;Novo Mercado;Diversos;31/12/2004;0,5699225;0,6926860;0,6338449;1,0700360;0,7010309;1,1649620
+10;Magaz Luiza;ON;Bovespa;Ação;ativo;MGLU3;1,252;Novo Mercado;Comércio;31/12/2010;3,4489566;0,5177125;0,2120697;1,2715782;3,7760470;0,3619092
+11;Telef Brasil;PN;Bovespa;Ação;ativo;VIVT4;1,238;Tradicional;Telecomunicações;31/12/1986;0,2534308;0,4353432;0,7072794;0,5756353;0,6782408;0,4833694
+12;RaiaDrogasil;ON;Bovespa;Ação;ativo;RADL3;1,203;Novo Mercado;Comércio e distribuição;31/12/1997;-0,3027507;0,5767963;0,9953374;0,3182342;-0,3164395;-0,0617212
+13;Ultrapar;ON;Bovespa;Ação;ativo;UGPA3;1,162;Novo Mercado;Petróleo, gás e biocombustíveis;31/12/1998;0,2937797;0,7813121;0,6215182;0,5356923;-0,2015661;0,8434913
+14;Equatorial;ON;Bovespa;Ação;ativo;EQTL3;1,119;Novo Mercado;Energia elétrica;31/12/2005;1,0189227;0,4411976;0,5375103;0,3740591;0,6987788;1,1807930
+15;CCR SA;ON;Bovespa;Ação;ativo;CCRO3;1,094;Novo Mercado;Transporte;31/12/1999;0,7024278;1,2395812;0,5883938;0,7145902;0,7199305;1,2427605
+16;Weg;ON;Bovespa;Ação;ativo;WEGE3;0,978;Novo Mercado;Máquinas e equipamentos;31/12/1986;-0,1144450;0,3214972;0,0536974;0,3473648;0,1621818;0,1843578
+17;Sabesp;ON;Bovespa;Ação;ativo;SBSP3;0,956;Novo Mercado;Água e saneamento;31/03/1996;0,6988074;0,7098236;1,1875807;0,5084931;0,2739509;1,4922229
+18;Cogna ON;ON;Bovespa;Ação;ativo;COGN3;0,890;Novo Mercado;Diversos;30/06/2007;-0,1819698;1,0345492;0,6052150;1,2203839;0,9043257;1,2325679
+19;Lojas Americ;PN;Bovespa;Ação;ativo;LAME4;0,790;Nível 1;Comércio;31/12/1986;0,6698974;0,9225983;0,5340959;0,6000093;2,0192251;0,9962667
+20;Hypera;ON;Bovespa;Ação;ativo;HYPE3;0,773;Novo Mercado;Comércio e distribuição;31/12/2006;1,2721911;0,8754731;0,5839864;0,4431857;0,6160668;0,6140704
+21;Gerdau;PN;Bovespa;Ação;ativo;GGBR4;0,760;Nível 1;Siderurgia e metalurgia;31/12/1986;1,0703598;0,5339040;1,0508749;2,7467332;1,3912963;0,9788674
+22;Cemig;PN;Bovespa;Ação;ativo;CMIG4;0,750;Nível 1;Energia elétrica;31/12/1986;0,3101790;1,3048090;1,4249200;1,5101116;1,6525735;1,3850323
+23;Embraer;ON;Bovespa;Ação;ativo;EMBR3;0,709;Novo Mercado;Material de transporte;31/12/1986;-1,0374185;-0,3126720;0,1127055;-0,1839086;1,5390906;-0,4323312
+24;P.Acucar-Cbd;PN;Bovespa;Ação;ativo;PCAR4;0,705;Nível 1;Comércio e distribuição;31/12/1994;0,4724426;0,7191921;1,3394874;1,3099107;0,8074030;-0,1057641
+25;BR Malls Par;ON;Bovespa;Ação;ativo;BRML3;0,667;Novo Mercado;Exploração de imóveis;31/12/2005;0,8739323;1,3464468;0,9261910;0,7786633;1,4006751;0,9620012
+26;Natura;ON;Bovespa;Ação;ativo;NATU3;0,622;Novo Mercado;Produtos de uso pessoal e de limpeza;31/12/2003;0,3696107;0,9244731;0,3625366;0,9693246;0,8796417;0,3423619
+27;Yduqs Part;ON;Bovespa;Ação;ativo;YDUQ3;0,615;Novo Mercado;Diversos;30/06/2007;-0,0082016;1,0234518;1,3361484;0,6972535;1,5409174;1,0490329
+28;Engie Brasil;ON;Bovespa;Ação;ativo;EGIE3;0,613;Novo Mercado;Energia elétrica;31/03/1998;0,4952701;0,5641941;0,5007391;0,5748620;0,4849620;0,4739627
+29;B2W Digital;ON;Bovespa;Ação;ativo;BTOW3;0,569;Novo Mercado;Comércio;31/12/2006;3,9761783;0,8288940;0,8826261;1,8187654;2,9696073;0,8477350
+30;Klabin S/A;PN;Bovespa;Ação;ativo;KLBN11;0,544;Nível 2;Madeira e papel;31/12/1986;0,8900000;-0,1400000;0,4900000;-0,0500000;0,3500000;0,2000000
+31;Eletrobras;ON;Bovespa;Ação;ativo;ELET3;0,524;Nível 1;Energia elétrica;31/12/1986;1,8829735;1,8026491;1,3386368;1,1253046;2,8188127;2,5555850
+32;Tim Part S/A;ON;Bovespa;Ação;ativo;TIMP3;0,524;Novo Mercado;Telecomunicações;31/03/1998;0,7448649;0,1349206;0,2575924;0,9791426;1,0282614;0,4167243
+33;Viavarejo;ON;Bovespa;Ação;ativo;VVAR3;0,496;Novo Mercado;Comércio;31/12/1994;0,8144146;0,7611384;0,4329501;1,2627347;2,0420330;1,5506106
+34;Cosan;ON;Bovespa;Ação;ativo;CSAN3;0,483;Novo Mercado;Petróleo, gás e biocombustíveis;30/04/2005;0,6044702;1,2557334;1,4908148;0,5014312;0,8760299;0,3735034
+35;Sid Nacional;ON;Bovespa;Ação;ativo;CSNA3;0,477;Tradicional;Siderurgia e metalurgia;31/12/1988;2,3693615;0,7239384;3,2015000;3,3125447;2,8369563;1,2967421
+36;Braskem;PNA;Bovespa;Ação;ativo;BRKM5;0,431;Nível 1;Químicos;31/12/1986;0,5149058;0,4889640;0,9458491;0,3256731;0,3906321;-0,0430675
+37;Multiplan;ON;Bovespa;Ação;ativo;MULT3;0,421;Nível 2;Exploração de imóveis;31/03/2007;0,5187468;1,0471131;0,5618889;0,5988989;0,6104081;0,9641229
+38;Fleury;ON;Bovespa;Ação;ativo;FLRY3;0,419;Novo Mercado;Serviços médico-hospitalares, análises e diagnósticos;31/12/2008;0,2077984;0,1046520;0,4463846;1,0588686;0,7176118;0,1555623
+39;Qualicorp;ON;Bovespa;Ação;ativo;QUAL3;0,401;Novo Mercado;Serviços médico-hospitalares, análises e diagnósticos;31/03/2011;0,9948932;0,8260304;1,1930841;0,5590466;0,1995011;0,9132387
+40;Bradespar;PN;Bovespa;Ação;ativo;BRAP4;0,400;Nível 1;Mineração;31/03/2000;1,2488701;0,4790707;1,5757061;2,5425625;1,9703051;0,7922516
+41;Cyrela Realt;ON;Bovespa;Ação;ativo;CYRE3;0,366;Novo Mercado;Construção civil;30/06/1996;0,7939563;0,8644679;0,3930591;0,9893161;2,1556714;1,3432144
+42;Taesa;UNT N2;Bovespa;Ação;ativo;TAEE11;0,341;Nível 2;Energia elétrica;30/06/2006;0,3110978;0,7695200;0,2740979;0,5054984;-0,1019594;0,2978923
+43;Energias BR;ON;Bovespa;Ação;ativo;ENBR3;0,312;Novo Mercado;Energia elétrica;31/12/2002;0,8375843;1,1872458;0,8176974;0,3836421;0,4817033;0,1077232
+44;MRV;ON;Bovespa;Ação;ativo;MRVE3;0,292;Novo Mercado;Construção civil;31/12/2006;1,3858058;0,9647944;0,7486000;1,0076417;1,1034504;0,4206106
+45;Gol;PN;Bovespa;Ação;ativo;GOLL4;0,260;Nível 2;Transporte;31/12/2002;2,8785201;0,7922684;0,6997511;2,6407725;3,0499512;3,3485803
+46;Marfrig;ON;Bovespa;Ação;ativo;MRFG3;0,251;Novo Mercado;Alimentos processados;31/12/2004;-1,1299917;0,9244108;-0,0170195;0,1144618;0,4187279;0,5714976
+47;Iguatemi;ON;Bovespa;Ação;ativo;IGTA3;0,223;Novo Mercado;Exploração de imóveis;31/12/2005;1,0069502;0,9025867;0,7078879;0,5632690;0,6793489;1,2041400
+48;Usiminas;PNA;Bovespa;Ação;ativo;USIM5;0,220;Nível 1;Siderurgia e metalurgia;31/12/1987;1,8802233;0,9771163;2,5165646;4,3556797;2,3488303;2,3181905
+49;Gerdau Met;PN;Bovespa;Ação;ativo;GOAU4;0,210;Nível 1;Siderurgia e metalurgia;31/12/1986;1,1878621;0,6026081;1,3782892;3,5405021;1,4968589;1,2038432
+50;Ecorodovias;ON;Bovespa;Ação;ativo;ECOR3;0,134;Novo Mercado;Transporte;30/06/2003;0,3150189;0,9458334;0,4514064;1,1638671;0,1870719;1,2173455
