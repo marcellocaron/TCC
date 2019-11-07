@@ -1,0 +1,21 @@
+INSERT INTO TB_SETOR (CD_SETOR, NM_SETOR)
+VALUES
+(1,'Alimentos processados'),
+(2,'Bebidas'),
+(3,'Comércio'),
+(4,'Comércio e distribuição'),
+(5,'Construção civil'),
+(6,'Diversos'),
+(7,'Energia elétrica'),
+(8,'Exploração de imóveis'),
+(9,'Máquinas e equipamentos'),
+(10,'Madeira e papel'),
+(11,'Material de transporte'),
+(12,'Mineração'),
+(13,'Petróleo, gás e biocombustíveis'),
+(14,'Produtos de uso pessoal e de limpeza'),
+(15,'Químicos'),
+(16,'Serviços médico-hospitalares, análises e diagnósticos'),
+(12,'Siderurgia e metalurgia'),
+(18,'Telecomunicações'),
+(19,'Transporte')
